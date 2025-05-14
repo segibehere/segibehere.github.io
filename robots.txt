@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://segibehere.wbuyy.com/segibehere.txt
